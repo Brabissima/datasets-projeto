@@ -1,0 +1,47 @@
+,DS_FAIXA_ETARIA,DS_GENERO,QT_COMPARECIMENTO
+0,100 anos ou mais,M,557
+1,16 anos,M,1315
+2,17 anos,M,1451
+3,18 anos,M,1627
+4,19 anos,M,1822
+5,20 anos,M,2076
+6,21 a 24 anos,M,3614
+7,25 a 29 anos,M,4596
+8,30 a 34 anos,M,5353
+9,35 a 39 anos,M,5902
+10,40 a 44 anos,M,6267
+11,45 a 49 anos,M,6573
+12,50 a 54 anos,M,6958
+13,55 a 59 anos,M,6959
+14,60 a 64 anos,M,6718
+15,65 a 69 anos,M,6148
+16,70 a 74 anos,M,5413
+17,75 a 79 anos,M,4489
+18,80 a 84 anos,M,3511
+19,85 a 89 anos,M,2534
+20,90 a 94 anos,M,1943
+21,95 a 99 anos,M,1149
+22,Inválido,M,1152
+23,100 anos ou mais,F,556
+24,16 anos,F,1405
+25,17 anos,F,1711
+26,18 anos,F,1979
+27,19 anos,F,2213
+28,20 anos,F,2513
+29,21 a 24 anos,F,4152
+30,25 a 29 anos,F,5341
+31,30 a 34 anos,F,6186
+32,35 a 39 anos,F,6733
+33,40 a 44 anos,F,7208
+34,45 a 49 anos,F,7450
+35,50 a 54 anos,F,7731
+36,55 a 59 anos,F,7560
+37,60 a 64 anos,F,7213
+38,65 a 69 anos,F,6708
+39,70 a 74 anos,F,5996
+40,75 a 79 anos,F,5036
+41,80 a 84 anos,F,4211
+42,85 a 89 anos,F,3057
+43,90 a 94 anos,F,2254
+44,95 a 99 anos,F,1275
+45,Inválido,F,1230
