@@ -1,47 +1,47 @@
 ,DS_FAIXA_ETARIA,DS_GENERO,QT_COMPARECIMENTO
-0,100 anos ou mais,M,557
-1,16 anos,M,1315
-2,17 anos,M,1451
-3,18 anos,M,1627
-4,19 anos,M,1822
-5,20 anos,M,2076
-6,21 a 24 anos,M,3614
-7,25 a 29 anos,M,4596
-8,30 a 34 anos,M,5353
-9,35 a 39 anos,M,5902
-10,40 a 44 anos,M,6267
-11,45 a 49 anos,M,6573
-12,50 a 54 anos,M,6958
-13,55 a 59 anos,M,6959
-14,60 a 64 anos,M,6718
-15,65 a 69 anos,M,6148
-16,70 a 74 anos,M,5413
-17,75 a 79 anos,M,4489
-18,80 a 84 anos,M,3511
-19,85 a 89 anos,M,2534
-20,90 a 94 anos,M,1943
-21,95 a 99 anos,M,1149
-22,Inválido,M,1152
-23,100 anos ou mais,F,556
-24,16 anos,F,1405
-25,17 anos,F,1711
-26,18 anos,F,1979
-27,19 anos,F,2213
-28,20 anos,F,2513
-29,21 a 24 anos,F,4152
-30,25 a 29 anos,F,5341
-31,30 a 34 anos,F,6186
-32,35 a 39 anos,F,6733
-33,40 a 44 anos,F,7208
-34,45 a 49 anos,F,7450
-35,50 a 54 anos,F,7731
-36,55 a 59 anos,F,7560
-37,60 a 64 anos,F,7213
-38,65 a 69 anos,F,6708
-39,70 a 74 anos,F,5996
-40,75 a 79 anos,F,5036
-41,80 a 84 anos,F,4211
-42,85 a 89 anos,F,3057
-43,90 a 94 anos,F,2254
-44,95 a 99 anos,F,1275
-45,Inválido,F,1230
+0,>=100,M,27
+1,16 anos,M,51408
+2,17 anos,M,62612
+3,18 anos,M,72660
+4,19 anos,M,73747
+5,20 anos,M,76205
+6,21 a 24 anos,M,310910
+7,25 a 29 anos,M,368807
+8,30 a 34 anos,M,380105
+9,35 a 39 anos,M,364663
+10,40 a 44 anos,M,314167
+11,45 a 49 anos,M,281515
+12,50 a 54 anos,M,269245
+13,55 a 59 anos,M,220670
+14,60 a 64 anos,M,163998
+15,65 a 69 anos,M,115496
+16,70 a 74 anos,M,61678
+17,75 a 79 anos,M,30413
+18,80 a 84 anos,M,11638
+19,85 a 89 anos,M,2878
+20,90 a 94 anos,M,682
+21,95 a 99 anos,M,80
+22,Inválido,M,36839
+23,>=100,F,15
+24,16 anos,F,55072
+25,17 anos,F,69056
+26,18 anos,F,77852
+27,19 anos,F,79590
+28,20 anos,F,83411
+29,21 a 24 anos,F,343958
+30,25 a 29 anos,F,412241
+31,30 a 34 anos,F,432130
+32,35 a 39 anos,F,420593
+33,40 a 44 anos,F,372133
+34,45 a 49 anos,F,338490
+35,50 a 54 anos,F,328536
+36,55 a 59 anos,F,264798
+37,60 a 64 anos,F,203189
+38,65 a 69 anos,F,139911
+39,70 a 74 anos,F,67980
+40,75 a 79 anos,F,30018
+41,80 a 84 anos,F,10825
+42,85 a 89 anos,F,2386
+43,90 a 94 anos,F,488
+44,95 a 99 anos,F,71
+45,Inválido,F,39357
